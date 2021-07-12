@@ -16,6 +16,6 @@
     "mkdirp": "^0.5.1"
   },
   "devDependencies": {
-    "@alrra/travis-scripts": "^3.0.0"
+    "@alrra/travis-scripts": "^3.0.2"
   }
 }
