@@ -12,7 +12,7 @@
     "build": "ecmarkup spec.html out/index.html"
   },
   "dependencies": {
-    "ecmarkup": "^3.12.0",
+    "ecmarkup": "^3.25.3",
     "mkdirp": "^0.5.1"
   },
   "devDependencies": {
